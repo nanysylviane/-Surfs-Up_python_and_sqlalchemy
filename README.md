@@ -4,17 +4,15 @@
 
 Project outlines of what we need to do.
 
-## Step 1 - Climate Analysis and Exploration
+## Climate Analysis and Exploration
 
-To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. 
+We use Python and SQLAlchemy to do basic climate analysis and data exploration of our climate database. 
 
-* Use the provided [starter notebook](climate_starter.ipynb) and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete your climate analysis and data exploration.
+* Choose a start date and end date for our trip approximately 3-15 days total.
 
-* Choose a start date and end date for your trip. Make sure that your vacation range is approximately 3-15 days total.
+* Use SQLAlchemy `create_engine` to connect to our sqlite database.
 
-* Use SQLAlchemy `create_engine` to connect to your sqlite database.
-
-* Use SQLAlchemy `automap_base()` to reflect your tables into classes and save a reference to those classes called `Station` and `Measurement`.
+* Use SQLAlchemy `automap_base()` to reflect our tables into classes and save a reference to those classes called `Station` and `Measurement`.
 
 ### Precipitation Analysis
 
@@ -52,6 +50,7 @@ FLASK ,
 SQLAlchemy ORM queries, 
 Pandas, and Matplotlib.
 
-## Copyright
+
+
 
 Data Boot Camp ©2019. All Rights Reserved.
