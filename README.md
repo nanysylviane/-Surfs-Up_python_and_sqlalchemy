@@ -1,6 +1,5 @@
 # Surfs Up!
 
-![surfs-up.jpeg](Images/surfs-up.jpeg)
 
 Project outlines of what we need to do.
 
@@ -26,7 +25,6 @@ We use Python and SQLAlchemy to do basic climate analysis and data exploration o
 
 * Plot the results using the DataFrame `plot` method.
 
-  ![precipitation](Images/precipitation.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -42,7 +40,6 @@ We use Python and SQLAlchemy to do basic climate analysis and data exploration o
 
   * Plot the results as a histogram with `bins=12`.
 
-    ![station-histogram](Images/station-histogram.png)
 
 
 #### We Use :
@@ -50,6 +47,11 @@ FLASK ,
 SQLAlchemy ORM queries, 
 Pandas, and Matplotlib.
 
+
+
+
+![](Temperature_Frequency_Histogram.png)
+![](Trip_Avg_Temp.png)
 
 
 
