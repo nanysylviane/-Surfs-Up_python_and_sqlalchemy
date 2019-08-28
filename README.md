@@ -1,11 +1,11 @@
 # Surfs Up!
 
 
-Project outlines of what we need to do.
+Project outline of what we need to do.
 
 ## Climate Analysis and Exploration
 
-We use Python and SQLAlchemy to do basic climate analysis and data exploration of our climate database. 
+We used Python and SQLAlchemy to do basic climate analysis and data exploration of our climate database. 
 
 * Choose a start date and end date for our trip approximately 3-15 days total.
 
@@ -42,7 +42,7 @@ We use Python and SQLAlchemy to do basic climate analysis and data exploration o
 
 
 
-#### We Use :
+#### We Used :
 FLASK ,
 SQLAlchemy ORM queries, 
 Pandas, and Matplotlib.
